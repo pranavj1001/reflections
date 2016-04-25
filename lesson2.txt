@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+    An empty repository gets created with no commits. Respository has a hidden file .git in it , it helps to use the functions of git and helps to start with our own project.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+    
+    Staging area is like pre assembly area for final stages of commits.I think it offers us a chance to be sure about makin a commit.
