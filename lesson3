@@ -15,4 +15,5 @@ Describe the differences between forks, clones, and branches. When would you use
     Clones as the name suggests are direct copy of the original project. There are useful for offline work but if we are working or using someone else's work then its better to Fork that repository.
 
  
-    
+What is the benefit of having a copy of the last known state of the remote stored locally?
+    If we have the copy of the last known state of the remote then we can avoid the merge conflicts and save the precious time in solving those conflicts.
